@@ -1,4 +1,4 @@
-# 🔍 File Similarity Analyzer (Multi-threaded & Strategy Pattern)
+# 🔍 File Similarity Analyzer
 
 A Java desktop application designed to calculate text similarity between two files using advanced design patterns and concurrent processing. 
 
