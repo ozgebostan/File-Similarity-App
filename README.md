@@ -50,6 +50,3 @@ Where $A$ and $B$ are sets of unique words from each file.
 
 ---
 
-## 👨‍💻 Author
-**Özge Bostan** - Software Engineering Student at Izmir University of Economics.
-* [LinkedIn](https://www.linkedin.com/in/ozge-bostan)
