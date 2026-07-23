@@ -6,7 +6,7 @@ A Java desktop application designed to calculate text similarity between two fil
 
 ## 🏗️ Architectural Overview
 * **Strategy Design Pattern:** Used to decouple the similarity calculation logic. This allows for easy switching between different algorithms like **Jaccard Similarity**, **Cosine Similarity** without changing the core manager.
-* **Multi-threading:** Leverages `Runnable` and `Thread` classes to read multiple files concurrently, optimizing performance for large data sets.
+* **Multi-threading:** Uses `Runnable` and `Thread` classes to read multiple files concurrently.
 * **Component-Based UI:** Modular Swing components for better maintainability.
 
 ---
